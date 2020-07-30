@@ -1,6 +1,6 @@
 ## Executive Summary
 
-We were asked to create a preditive model for civil rights cases and included in predicting. 
+We were asked to create a preditive model for civil rights cases. 
 
 **Overall we created two models to predict the following cases:** 
 
