@@ -24,3 +24,4 @@ demographics at each of the locations where the case was handled.
 9. Identify any relationships that may exist between the outcome of a case and whether or not a non-terminating motion is granted/denied
 
 
+You will find that these questions were all answered and present in our presentation in the following [file](https://github.com/willmw97/MUDAC_2020/blob/master/MUDAC%20Team%2043.pdf).
